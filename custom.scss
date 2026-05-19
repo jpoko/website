@@ -1,0 +1,29 @@
+/*-- scss:defaults --*/
+/* Bootstrap variable overrides go here — BEFORE the theme compiles */
+$primary: #244f50;
+$secondary: #4C2719;
+
+$navbar-bg: #244f50;       /* navbar background color */
+$navbar-fg: #fffffe;       /* navbar text and icon color */
+$navbar-hl: #F37F27;       /* active/hover link highlight color */
+
+
+$link-color: #244f50;         /* body links match the navbar */
+$btn-border-radius: 4px;      /* slightly less rounded buttons */
+$headings-color: #064f50;     /* headings in a darker shade of teal */
+
+$headings-font-family: "PT Serif", serif;
+$font-family-sans-serif: "Source Sans 3", sans-serif;
+
+/*-- scss:rules --*/
+/* Regular CSS rules go here — AFTER the theme compiles */
+
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400&family=Source+Sans+3:wght@400;500;600&display=swap');
+
+
+.btn-outline-secondary {
+  --bs-btn-color: #244f50;
+  --bs-btn-border-color: #244f50;
+  --bs-btn-hover-bg: #244f50;
+  --bs-btn-hover-color: #fffffe;
+}

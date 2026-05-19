@@ -28,8 +28,9 @@ website:
 
 format:
   html:
-    theme: sandstone
-    css: styles.css
+    theme: 
+        - sandstone
+        - custom.scss
     toc: false
 
 

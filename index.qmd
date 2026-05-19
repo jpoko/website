@@ -1,8 +1,8 @@
 ---
-title: "Jen Pokorny"
+title: "Jen Pokorny, PhD"
 ---
 
-I don't just analyze data — I build the tools and infrastructure that turn it into decisions.
+I don't just analyze data - I build the tools and infrastructure that turn it into decisions.
 
 [View My Work](portfolio.qmd){.btn .btn-primary}
 [Download Resume](resume.pdf){.btn .btn-outline-secondary}
