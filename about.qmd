@@ -1,0 +1,14 @@
+---
+title: "About"
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/jpoko
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/Yjenpokorny
+---
+
+Bio coming soon.

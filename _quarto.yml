@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - .nojekyll
+
+website:
+  title: "Jen Pokorny"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Portfolio"
+        href: portfolio.qmd
+      - text: "Resume"
+        href: resume.qmd
+      - text: "Contact"
+        href: contact.qmd
+    right:
+      - icon: github
+        href: https://github.com/jpoko
+      - icon: linkedin
+        href: https://linkedin.com/in/jenpokorny
+  page-footer:
+    center: "© 2026 Jen Pokorny"
+
+format:
+  html:
+    theme: sandstone
+    css: styles.css
+    toc: false
+
+
+
