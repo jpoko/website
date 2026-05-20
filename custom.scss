@@ -8,12 +8,16 @@ $navbar-fg: #fffffe;       /* navbar text and icon color */
 $navbar-hl: #F37F27;       /* active/hover link highlight color */
 
 
-$link-color: #244f50;         /* body links match the navbar */
 $btn-border-radius: 4px;      /* slightly less rounded buttons */
 $headings-color: #064f50;     /* headings in a darker shade of teal */
 
 $headings-font-family: "PT Serif", serif;
 $font-family-sans-serif: "Source Sans 3", sans-serif;
+
+$link-color: #0d8080;
+$link-hover-color: #244f50;   /* darkens on hover */
+$link-decoration: underline;
+$link-hover-decoration: underline;
 
 /*-- scss:rules --*/
 /* Regular CSS rules go here — AFTER the theme compiles */
@@ -26,4 +30,15 @@ $font-family-sans-serif: "Source Sans 3", sans-serif;
   --bs-btn-border-color: #244f50;
   --bs-btn-hover-bg: #244f50;
   --bs-btn-hover-color: #fffffe;
+}
+
+.note-sm {
+  font-size: 0.85rem;
+  color: #6c757d;
+}
+
+.g-col-6 h3, .g-col-md-3 h3 {
+  font-size: 2rem;
+  color: #244f50;
+  margin-bottom: 0.25rem;
 }

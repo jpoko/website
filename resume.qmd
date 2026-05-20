@@ -2,6 +2,203 @@
 title: "Resume"
 ---
 
-[Download PDF](resume.pdf){.btn .btn-primary}
+[Download PDF Resume](JenniferPokornyResume.pdf){.btn .btn-primary}
+<a href="https://linkedin.com/in/jenpokorny" class="btn btn-outline-secondary" target="_blank"><i class="bi bi-linkedin"></i> View on LinkedIn</a>
 
-Experience coming soon.
+
+<p class="note-sm"><em>Note: I tailor my resume for each application - feel free to <a href="contact.qmd">reach out</a> if you'd like a version targeted to a specific role.</em></p>
+
+
+---
+
+
+**Data Scientist with a PhD in Psychology and 15+ years translating complex, real-world problems into high-impact data solutions. Expert at building data infrastructure, interactive tools, and automated reporting systems that drive strategic decisions. Proven ability to lead end-to-end projects across the full data lifecycle - from requirements gathering and pipeline development through deployment and stakeholder communication. Available for full-time and contract engagements.**
+
+
+---
+
+## Impact Highlights
+
+::: {.grid}
+
+::: {.g-col-6 .g-col-md-3}
+### $5.45B
+Financial tracking system built in 3 days, replacing a 10-report manual
+process
+:::
+
+::: {.g-col-6 .g-col-md-3}
+### 1 week
+Workforce simulation app that proved need for 100 additional staff and
+compressed a 3-year timeline to 40 weeks
+:::
+
+::: {.g-col-6 .g-col-md-3}
+### 24% → 51%
+On-time acknowledgment rate improvement in 3 weeks, with 1,000-claim
+backlog reduction
+:::
+
+::: {.g-col-6 .g-col-md-3}
+### 25M+
+Data points integrated from 14 disparate sources for a longitudinal
+study of 400 participants
+:::
+
+:::
+
+---
+
+## Technical Skills
+
+**Languages & Tools:** R (expert: ggplot2, plotly, Shiny, tidyverse,
+Quarto/R Markdown) · Python · SQL · Excel/Power Query · Power BI · Tableau · Salesforce · SPSS · Git · MATLAB
+
+**Statistical Methods:** Regression · HLM/mixed-effects models · clustering ·
+random forest · network analysis · predictive modeling · longitudinal & observational
+data analysis · factor analysis
+
+**Core Competencies:** Data pipeline development · interactive dashboards ·
+process automation · ETL · reproducible research · stakeholder collaboration ·
+workforce analytics & modeling
+
+---
+
+## Professional Experience
+
+**Lead Data Scientist, Consultant** | ABS Group · Santa Fe, NM
+[Mar 2024 – Mar 2026]{.float-end}
+
+*Data analytics team supporting FEMA's \$5.45B Hermit's Peak/Calf Canyon
+Claims Office (30,000+ claims)*
+
+- Built interactive workforce simulation app in one week - modeling 5-stage
+  claims process across 11 teams, proving need for 100 additional staff to
+  meet 40-week deadline vs. initial 3-year estimate; directly supported
+  executive staffing justification
+- Engineered automated financial tracking system replacing 10-report manual
+  compilation process; enabled executive monitoring of \$5.45B across three
+  payment tiers with min/max scenario planning, informing critical program
+  and resource allocation decisions
+- Conducted predictive modeling of future workforce performance based on
+  historical individual and team data, informing workforce rebalancing and
+  capacity planning
+- Designed and deployed daily operations report serving 300+ staff across
+  3 sites with role-specific views (executive, site, team, individual),
+  iteratively evolving based on stakeholder feedback
+- Developed automated acknowledgment system reducing claim backlog by 1,000
+  claims and increasing on-time acknowledgment rate from 24% to 51% in
+  3 weeks
+- Established complete data infrastructure from scratch - database
+  connectivity, data dictionary, automated daily pipeline, standardized
+  R/Excel protocols - creating single source of truth for all analytics;
+  documented protocols and mentored team members
+- Consulted with senior leadership on analytical priorities; handled diverse
+  requests ranging from 1-hour ad-hoc queries to multi-week dashboard
+  development
+
+---
+
+**Data Science Consultant** | UC Davis · Remote
+[Jan 2020 – Jun 2024]{.float-end}
+
+*Contemplative Coping During COVID-19 Study: Longitudinal multidisciplinary outcomes study examining health and
+wellbeing of ~400 U.S. participants during COVID-19*
+
+- Designed and implemented data pipeline integrating 25M+ data points from
+  14 disparate sources (Qualtrics surveys, biological samples) for
+  longitudinal study of 400 participants
+- Established reproducible R/Rmarkdown/Quarto protocols adopted by 15
+  researchers, ensuring transparent and auditable data pipelines across the
+  full study lifecycle
+- Automated generation of individualized mental health outcome reports for
+  350+ participants using Quarto/R, delivering personalized insights at scale
+- Directed clustering and multivariate distance matrix regression analyses
+  of mixed-methods data to identify predictors of participant outcomes and
+  intervention preferences
+- Collaborated with stakeholders to iteratively develop [interactive R Shiny outcomes dashboard](https://contemplative-coping-covid-19.shinyapps.io/dashboard/), enabling researchers to explore study insights and
+  communicate findings; contributed to 4 conference presentations
+
+---
+
+**Chief Program Officer / Head of Education** | Think Elephants International · Remote
+[May 2010 – Jun 2024]{.float-end}
+
+- Designed and analyzed program evaluations using 1,500+ pre/post-intervention
+  surveys across participant and control groups; led survey design, data
+  collection, and sampling methodology
+- Directed multilevel modeling, factor analysis, and nonparametric statistics
+  in R/R Markdown to assess learning outcomes and identify instructional
+  improvement opportunities
+- Coordinated education programs across NY, CA, and Thailand serving 600+
+  students at 18 sites; managed teams of 3–9 instructors and 20+ partner
+  organizations
+- Supervised and mentored 18 junior researchers including 3 thesis students;
+  disseminated findings through 5 conference presentations, 2 reports, and
+  1 publication
+
+---
+
+**Freelance Data Consultant** | Remote
+[2023 – 2024]{.float-end}
+
+- **Adelphi University** (2024): Automated exploratory data analysis,
+  principal component analysis (PCA), and inferential statistics workflows in R
+- **UC San Diego StayWELL Project** (2023): Developed
+  [interactive R Shiny data visualization tool](https://staywell.shinyapps.io/StayWELLStudy/)
+  to communicate wellbeing study findings to stakeholders; engaged in
+  client-facing discussions to identify needs and provide strategic
+  recommendations
+
+---
+
+**Researcher** · UC Davis, Center for Mind and Brain · Davis, CA
+[2013 – 2018]{.float-end}
+
+- Contributed to \$1.5M longitudinal research project assessing meditation
+  intervention outcomes via cross-sectional study and randomized controlled
+  trial (RCT) with wait-list control group; analyzed survey, behavioral,
+  physiological, and biological data from 10+ experiments
+- Initiated and led development of novel network analytic method for
+  quantifying qualitative data; published in peer-reviewed journal and
+  presented at research symposium
+- Collaborated across multidisciplinary stakeholder teams, contributing to
+  3 publications and 8 conference presentations
+- Supervised and mentored 20+ junior team members in research methodology
+  and statistical analysis
+
+---
+
+*Earlier research experience at UC Davis MIND Institute and Emory University - see full PDF for complete history*
+
+---
+
+## Education
+
+**PhD & MA, Psychology** (Neuroscience and Animal Behavior) ·
+Emory University · 2009
+
+**BA, Anthropology & Social Welfare** · University of Wisconsin-Madison
+
+---
+
+## Selected Training
+
+- Building with Power BI / Get Data in Power BI / Clean, Transform, Load
+  Data in Power BI - May 2025
+- Introduction to Power BI - Mar 2024
+- Developing & Testing Your Shiny Application - Open Source in Pharma,
+  Nov 2023
+- Introduction & Intermediate Python - Apr 2023
+- Intro to SQL / Intermediate SQL / Joining Data in SQL - Nov 2022
+- Python / Intro to Machine Learning / Intermediate Machine Learning -
+  Kaggle, Aug 2021
+
+## Selected Publications
+
+[View all publications on Google Scholar](https://scholar.google.com/citations?hl=en&user=Yl63d3oAAAAJ){.btn .btn-outline-secondary}
+
+- Savannah V VandenBos, **Jennifer J Pokorny**, Alea C Skwara, Serigne M Diaw, Brandon G King, Anthony P Zanesco, Kamilah Majied, Clifford D Saron, Quinn A Conklin (2025). ***Benefits and Challenges of Delivering Meditation Instruction Live Online: Lessons from the COVID-19 Pandemic Regarding Accessibility and Connection***. Mindfulness. [https://doi.org/10.1007/s12671-025-02556-1](https://doi.org/10.1007/s12671-025-02556-1){target="_blank"}
+- Stephen R Aichele, Baljinder K Sahdra, Anthony P Zanesco, Brandon G King, Emma L Bradshaw, **Jennifer J Pokorny**, Emilio Ferrer, Phillip R Shaver, Clifford D Saron (2025). ***Meditation training and enduring changes in psychological functioning: A 7-year longitudinal study***. The Journal of Positive Psychology. [https://doi.org/10.1080/17439760.2024.2378700](https://doi.org/10.1080/17439760.2024.2378700){target="_blank"}
+- Quinn A Conklin, Brandon G King, Anthony P Zanesco, Jue Lin, Anahita B Hamidi, **Jennifer J Pokorny**, María Jesús Álvarez-López, Marta Cosín-Tomás, Colin Huang, Perla Kaliman, Elissa S Epel, Clifford D Saron (2018). ***Insight meditation and telomere biology: The effects of intensive retreat and the moderating role of personality***. Brain, Behavior, and Immunity. [https://doi.org/10.1016/j.bbi.2018.03.003](https://doi.org/10.1016/j.bbi.2018.03.003){target="_blank"}
+- **Jennifer J Pokorny**, Alex Norman, Anthony Zanesco, Susan Bauer-Wu, Baljinder Sahdra, Clifford Saron (2018). ***Network Analysis for the Visualization and Analysis of Qualitative Data***. Psychological Methods. [https://doi.org/10.1037/met0000129](https://doi.org/10.1037/met0000129){target="_blank"}
