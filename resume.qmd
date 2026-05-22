@@ -19,34 +19,22 @@ title: "Resume"
 
 ## Impact Highlights
 
-::: {.grid}
+- Built financial tracking system in <span class="stat-highlight">3 days</span> to monitor <span class="stat-highlight">$5.45B</span>, replacing a manual 10-report compilation process
 
-::: {.g-col-6 .g-col-md-3}
-### $5.45B
-Financial tracking system built in 3 days, replacing a 10-report manual
-process
-:::
+- Designed and deployed a workforce simulation app in 
+  <span class="stat-highlight">1 week</span> - proving need for 
+  <span class="stat-highlight">100 additional staff</span> and compressing 
+  the timeline from <span class="stat-highlight">3 years to 40 weeks</span>
 
-::: {.g-col-6 .g-col-md-3}
-### 1 week
-Workforce simulation app that proved need for 100 additional staff and
-compressed a 3-year timeline to 40 weeks
-:::
+- Drove on-time acknowledgment rate from 
+  <span class="stat-highlight">24% → 51%</span> in 
+  <span class="stat-highlight">3 weeks</span>, reducing a 
+  1,000-claim backlog via automated acknowledgment system
 
-::: {.g-col-6 .g-col-md-3}
-### 24% → 51%
-On-time acknowledgment rate improvement in 3 weeks, with 1,000-claim
-backlog reduction
-:::
-
-::: {.g-col-6 .g-col-md-3}
-### 25M+
-Data points integrated from 14 disparate sources for a longitudinal
-study of 400 participants
-:::
-
-:::
-
+- Integrated <span class="stat-highlight">25M+</span> data points from 
+  14 disparate sources for a longitudinal study of 400 participants
+  
+  
 ---
 
 ## Technical Skills
@@ -102,7 +90,7 @@ Claims Office (30,000+ claims)*
 **Data Science Consultant** | UC Davis · Remote
 [Jan 2020 – Jun 2024]{.float-end}
 
-*Contemplative Coping During COVID-19 Study: Longitudinal multidisciplinary outcomes study examining health and
+*[Contemplative Coping During COVID-19 Study](https://www.contemplative-coping-covid-19.org/): Longitudinal multidisciplinary outcomes study examining health and
 wellbeing of ~400 U.S. participants during COVID-19*
 
 - Designed and implemented data pipeline integrating 25M+ data points from
@@ -161,7 +149,7 @@ wellbeing of ~400 U.S. participants during COVID-19*
   physiological, and biological data from 10+ experiments
 - Initiated and led development of novel network analytic method for
   quantifying qualitative data; published in peer-reviewed journal and
-  presented at research symposium
+  [presented at research symposium](https://www.youtube.com/watch?v=pWhBluWYUoo)
 - Collaborated across multidisciplinary stakeholder teams, contributing to
   3 publications and 8 conference presentations
 - Supervised and mentored 20+ junior team members in research methodology
@@ -199,6 +187,4 @@ Emory University · 2009
 [View all publications on Google Scholar](https://scholar.google.com/citations?hl=en&user=Yl63d3oAAAAJ){.btn .btn-outline-secondary}
 
 - Savannah V VandenBos, **Jennifer J Pokorny**, Alea C Skwara, Serigne M Diaw, Brandon G King, Anthony P Zanesco, Kamilah Majied, Clifford D Saron, Quinn A Conklin (2025). ***Benefits and Challenges of Delivering Meditation Instruction Live Online: Lessons from the COVID-19 Pandemic Regarding Accessibility and Connection***. Mindfulness. [https://doi.org/10.1007/s12671-025-02556-1](https://doi.org/10.1007/s12671-025-02556-1){target="_blank"}
-- Stephen R Aichele, Baljinder K Sahdra, Anthony P Zanesco, Brandon G King, Emma L Bradshaw, **Jennifer J Pokorny**, Emilio Ferrer, Phillip R Shaver, Clifford D Saron (2025). ***Meditation training and enduring changes in psychological functioning: A 7-year longitudinal study***. The Journal of Positive Psychology. [https://doi.org/10.1080/17439760.2024.2378700](https://doi.org/10.1080/17439760.2024.2378700){target="_blank"}
-- Quinn A Conklin, Brandon G King, Anthony P Zanesco, Jue Lin, Anahita B Hamidi, **Jennifer J Pokorny**, María Jesús Álvarez-López, Marta Cosín-Tomás, Colin Huang, Perla Kaliman, Elissa S Epel, Clifford D Saron (2018). ***Insight meditation and telomere biology: The effects of intensive retreat and the moderating role of personality***. Brain, Behavior, and Immunity. [https://doi.org/10.1016/j.bbi.2018.03.003](https://doi.org/10.1016/j.bbi.2018.03.003){target="_blank"}
 - **Jennifer J Pokorny**, Alex Norman, Anthony Zanesco, Susan Bauer-Wu, Baljinder Sahdra, Clifford Saron (2018). ***Network Analysis for the Visualization and Analysis of Qualitative Data***. Psychological Methods. [https://doi.org/10.1037/met0000129](https://doi.org/10.1037/met0000129){target="_blank"}

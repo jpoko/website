@@ -11,7 +11,7 @@
     "href": "resume.html#impact-highlights",
     "title": "Resume",
     "section": "Impact Highlights",
-    "text": "Impact Highlights\n\n\n$5.45B\nFinancial tracking system built in 3 days, replacing a 10-report manual process\n\n\n1 week\nWorkforce simulation app that proved need for 100 additional staff and compressed a 3-year timeline to 40 weeks\n\n\n24% → 51%\nOn-time acknowledgment rate improvement in 3 weeks, with 1,000-claim backlog reduction\n\n\n25M+\nData points integrated from 14 disparate sources for a longitudinal study of 400 participants"
+    "text": "Impact Highlights\n\nBuilt financial tracking system in 3 days to monitor $5.45B, replacing a manual 10-report compilation process\nDesigned and deployed a workforce simulation app in 1 week - proving need for 100 additional staff and compressing the timeline from 3 years to 40 weeks\nDrove on-time acknowledgment rate from 24% → 51% in 3 weeks, reducing a 1,000-claim backlog via automated acknowledgment system\nIntegrated 25M+ data points from 14 disparate sources for a longitudinal study of 400 participants"
   },
   {
     "objectID": "resume.html#technical-skills",
@@ -46,7 +46,7 @@
     "href": "resume.html#selected-publications",
     "title": "Resume",
     "section": "Selected Publications",
-    "text": "Selected Publications\nView all publications on Google Scholar\n\nSavannah V VandenBos, Jennifer J Pokorny, Alea C Skwara, Serigne M Diaw, Brandon G King, Anthony P Zanesco, Kamilah Majied, Clifford D Saron, Quinn A Conklin (2025). Benefits and Challenges of Delivering Meditation Instruction Live Online: Lessons from the COVID-19 Pandemic Regarding Accessibility and Connection. Mindfulness. https://doi.org/10.1007/s12671-025-02556-1\nStephen R Aichele, Baljinder K Sahdra, Anthony P Zanesco, Brandon G King, Emma L Bradshaw, Jennifer J Pokorny, Emilio Ferrer, Phillip R Shaver, Clifford D Saron (2025). Meditation training and enduring changes in psychological functioning: A 7-year longitudinal study. The Journal of Positive Psychology. https://doi.org/10.1080/17439760.2024.2378700\nQuinn A Conklin, Brandon G King, Anthony P Zanesco, Jue Lin, Anahita B Hamidi, Jennifer J Pokorny, María Jesús Álvarez-López, Marta Cosín-Tomás, Colin Huang, Perla Kaliman, Elissa S Epel, Clifford D Saron (2018). Insight meditation and telomere biology: The effects of intensive retreat and the moderating role of personality. Brain, Behavior, and Immunity. https://doi.org/10.1016/j.bbi.2018.03.003\nJennifer J Pokorny, Alex Norman, Anthony Zanesco, Susan Bauer-Wu, Baljinder Sahdra, Clifford Saron (2018). Network Analysis for the Visualization and Analysis of Qualitative Data. Psychological Methods. https://doi.org/10.1037/met0000129"
+    "text": "Selected Publications\nView all publications on Google Scholar\n\nSavannah V VandenBos, Jennifer J Pokorny, Alea C Skwara, Serigne M Diaw, Brandon G King, Anthony P Zanesco, Kamilah Majied, Clifford D Saron, Quinn A Conklin (2025). Benefits and Challenges of Delivering Meditation Instruction Live Online: Lessons from the COVID-19 Pandemic Regarding Accessibility and Connection. Mindfulness. https://doi.org/10.1007/s12671-025-02556-1\nJennifer J Pokorny, Alex Norman, Anthony Zanesco, Susan Bauer-Wu, Baljinder Sahdra, Clifford Saron (2018). Network Analysis for the Visualization and Analysis of Qualitative Data. Psychological Methods. https://doi.org/10.1037/met0000129"
   },
   {
     "objectID": "index.html",
@@ -74,7 +74,7 @@
     "href": "about.html#how-i-work",
     "title": "About",
     "section": "How I Work",
-    "text": "How I Work\nI thrive in environments where the infrastructure doesn’t exist yet - where the job is to figure out what’s needed, build it, and make sure people actually use it. I’m equally comfortable scoping a complex multi-month system and turning around a critical ad-hoc analysis in an afternoon.\nI’m a strong advocate for open, reproducible data pipelines - work that doesn’t fall apart when someone else has to maintain it. I integrate generative AI tools throughout my workflow to accelerate delivery without sacrificing rigor, and I design solutions for the people who will actually use them rather than a hypothetical average user.\nMy background includes a PhD in Psychology, which shapes how I approach every engagement: I listen carefully, ask the questions behind the questions, and bring a particular curiosity to work that sits at the intersection of data and human wellbeing - health outcomes, workforce dynamics, and the factors that shape how people and organizations function."
+    "text": "How I Work\nI thrive in environments where the infrastructure doesn’t exist yet - where the job is to figure out what’s needed, build it, and make sure people actually use it. I’m equally comfortable scoping a complex multi-month system and turning around a critical ad-hoc analysis in an afternoon.\nI’m a strong advocate for open, reproducible data pipelines - work that doesn’t fall apart when someone else has to maintain it. I thoughtfully integrate generative AI tools throughout my workflow to accelerate delivery without sacrificing rigor, and I design solutions for the people who will actually use them rather than a hypothetical average user.\nMy background includes a PhD in Psychology, which shapes how I approach every engagement: I listen carefully, ask the questions behind the questions, and bring a particular curiosity to work that sits at the intersection of data and human wellbeing - health outcomes, workforce dynamics, and the factors that shape how people and organizations function."
   },
   {
     "objectID": "about.html#what-im-looking-for",
@@ -88,7 +88,7 @@
     "href": "about.html#skills",
     "title": "About",
     "section": "Skills",
-    "text": "Skills\nLanguages & Tools R (expert) · Python · SQL · Quarto · Git\nR Ecosystem Shiny · ggplot2 · plotly · tidyverse · R Markdown\nOther Tools Power BI · Tableau · Excel / Power Query · Salesforce · SPSS · MATLAB\nStatistical Methods Regression · HLM / mixed-effects models · clustering · random forest · network analysis · predictive modeling · longitudinal data analysis\nCore Competencies Data pipeline development · interactive dashboards · process automation · ETL · stakeholder collaboration · reproducible research · program evaluation"
+    "text": "Skills\nLanguages & Tools R · Python · SQL · Quarto · Git\nR Ecosystem Shiny · ggplot2 · plotly · tidyverse · R Markdown\nOther Tools Power BI · Tableau · Excel / Power Query · Salesforce · SPSS · MATLAB\nStatistical Methods Regression · HLM / mixed-effects models · clustering · random forest · network analysis · predictive modeling · longitudinal data analysis\nCore Competencies Data pipeline development · interactive dashboards · process automation · ETL · stakeholder collaboration · reproducible research · program evaluation"
   },
   {
     "objectID": "contact.html",

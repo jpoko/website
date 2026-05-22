@@ -42,7 +42,7 @@ multi-month system and turning around a critical ad-hoc analysis in an
 afternoon.
 
 I'm a strong advocate for open, reproducible data pipelines - work that
-doesn't fall apart when someone else has to maintain it. I integrate
+doesn't fall apart when someone else has to maintain it. I thoughtfully integrate
 generative AI tools throughout my workflow to accelerate delivery without
 sacrificing rigor, and I design solutions for the people who will actually
 use them rather than a hypothetical average user.
@@ -67,7 +67,7 @@ contexts where data can drive meaningful impact.
 ## Skills
 
 **Languages & Tools**
-R (expert) · Python · SQL · Quarto · Git
+R · Python · SQL · Quarto · Git
 
 **R Ecosystem**
 Shiny · ggplot2 · plotly · tidyverse · R Markdown
