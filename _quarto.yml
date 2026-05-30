@@ -7,6 +7,7 @@ project:
 
 website:
   title: "Jen Pokorny"
+  google-analytics: "G-6Z3XGK2B15"
   navbar:
     left:
       - text: "Home"
