@@ -39,7 +39,7 @@ title: "Resume"
 
 ## Technical Skills
 
-**Languages & Tools:** R (expert: ggplot2, plotly, Shiny, tidyverse,
+**Languages & Tools:** R (ggplot2, plotly, Shiny, tidyverse,
 Quarto/R Markdown) · Python · SQL · Excel/Power Query · Power BI · Tableau · Salesforce · SPSS · Git · MATLAB
 
 **Statistical Methods:** Regression · HLM/mixed-effects models · clustering ·

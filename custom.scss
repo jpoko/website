@@ -42,3 +42,50 @@ $link-hover-decoration: underline;
   font-weight: 600;
   color: #F37F27;
 }
+
+/* ── Portfolio Page ─────────────────────────────────────────── */
+
+.portfolio-card {
+  display: flex;
+  flex-direction: row;
+  gap: 2rem;
+  align-items: flex-start;
+  margin-bottom: 1rem;
+
+  // Stack vertically on small screens
+  @media (max-width: 768px) {
+    flex-direction: column;
+  }
+}
+
+.portfolio-img {
+  flex: 0 0 340px;
+
+  img {
+    width: 100%;
+    height: auto;
+    border-radius: 6px;
+    border: 1px solid #dee2e6;
+    display: block;
+  }
+
+  @media (max-width: 768px) {
+    flex: none;
+    width: 100%;
+  }
+}
+
+.portfolio-desc {
+  flex: 1;
+
+  p {
+    margin-bottom: 0.6rem;
+  }
+}
+
+.portfolio-links {
+  margin-top: 1.2rem;
+  display: flex;
+  gap: 0.6rem;
+  flex-wrap: wrap;
+}

@@ -18,7 +18,7 @@
     "href": "resume.html#technical-skills",
     "title": "Resume",
     "section": "Technical Skills",
-    "text": "Technical Skills\nLanguages & Tools: R (expert: ggplot2, plotly, Shiny, tidyverse, Quarto/R Markdown) · Python · SQL · Excel/Power Query · Power BI · Tableau · Salesforce · SPSS · Git · MATLAB\nStatistical Methods: Regression · HLM/mixed-effects models · clustering · random forest · network analysis · predictive modeling · longitudinal & observational data analysis · factor analysis\nCore Competencies: Data pipeline development · interactive dashboards · process automation · ETL · reproducible research · stakeholder collaboration · workforce analytics & modeling"
+    "text": "Technical Skills\nLanguages & Tools: R (ggplot2, plotly, Shiny, tidyverse, Quarto/R Markdown) · Python · SQL · Excel/Power Query · Power BI · Tableau · Salesforce · SPSS · Git · MATLAB\nStatistical Methods: Regression · HLM/mixed-effects models · clustering · random forest · network analysis · predictive modeling · longitudinal & observational data analysis · factor analysis\nCore Competencies: Data pipeline development · interactive dashboards · process automation · ETL · reproducible research · stakeholder collaboration · workforce analytics & modeling"
   },
   {
     "objectID": "resume.html#professional-experience",
@@ -102,6 +102,27 @@
     "href": "portfolio.html",
     "title": "Portfolio",
     "section": "",
-    "text": "My work coming soon."
+    "text": "A sample of interactive data tools I’ve built using R and Shiny. Each app was designed to make complex data accessible - whether for research teams, study participants, or anyone curious about a dataset.\nAdditional projects are in development, adapted from consulting work to demonstrate transferable capabilities."
+  },
+  {
+    "objectID": "portfolio.html#ccc-study-dashboard",
+    "href": "portfolio.html#ccc-study-dashboard",
+    "title": "Portfolio",
+    "section": "CCC Study Dashboard",
+    "text": "CCC Study Dashboard\n\n\n\n\n\nCCC Study Dashboard - interactive outcomes dashboard built for a UC Davis longitudinal COVID-19 study\n\n\n\n\nWhat it does: An interactive outcomes dashboard built for a UC Davis research team studying mindfulness-based coping during the COVID-19 pandemic. Allows researchers to explore participant stress exposures and wellbeing outcomes across multiple time points and filter by demographic and practice variables.\nThe challenge: Integrating 25M+ data points from 14 disparate sources into a single coherent interface that both researchers and non-technical stakeholders could navigate.\nBuilt with: R · Shiny · ggplot2 · plotly · tidyverse · exploratory data analysis\nContext: Academic research project, UC Davis\n\n View App  View Code"
+  },
+  {
+    "objectID": "portfolio.html#staywell-study-app",
+    "href": "portfolio.html#staywell-study-app",
+    "title": "Portfolio",
+    "section": "StayWELL Study App",
+    "text": "StayWELL Study App\n\n\n\n\n\nStayWELL Study App - interactive data visualization tool built for UC San Diego\n\n\n\n\nWhat it does: An interactive data visualization tool built for the UC San Diego StayWELL Project, which assessed the wellbeing of older adults during the COVID-19 pandemic, enabling researchers to explore and share study findings with other investigators and stakeholders. Designed to present ellbeing data in a format accessible to both research and clinical audiences.\nThe challenge: Translating complex longitudinal wellbeing data into a navigable interface that serves multiple audiences - from principal investigators to clinicians unfamiliar with raw study output.\nBuilt with: R · Shiny · ggplot2 · plotly · tidyverse\nContext: Freelance contract, UC San Diego (2023)\n\n View App"
+  },
+  {
+    "objectID": "portfolio.html#name-explorer",
+    "href": "portfolio.html#name-explorer",
+    "title": "Portfolio",
+    "section": "Name Explorer",
+    "text": "Name Explorer\n\n\n\n\n\nName Explorer - interactive tool for exploring U.S. baby name trends\n\n\n\n\nWhat it does: An interactive explorer for U.S. baby name trends, letting users search by name, filter by starting letter, length, or contained string, and visualize popularity over time by year and gender. A fun tool that demonstrates clean UI design and responsive data exploration on a universally relatable dataset.\nThe challenge: Making a large, multi-dimensional dataset genuinely fun and fast to explore - with enough filter combinations to satisfy a curious user without overwhelming them.\nBuilt with: R · Shiny · ggplot2 · plotly · tidyverse\nContext: Personal project\n\n View App  View Code"
   }
 ]
